@@ -1,0 +1,36 @@
+
+  {
+    "name": "Waffles",
+    "brand": "Eggos",
+    "calories": "150",
+    "description": "Breakfast",
+    "rating": null
+  },
+  {
+    "name": "Pizza",
+    "brand": "Dominos",
+    "calories": "750",
+    "description": "Dinner",
+    "rating": null
+  },
+  {
+    "name": "Toaster Pastries",
+    "brand": "Pop-tarts",
+    "calories": "350",
+    "description": "Dinner",
+    "rating": null
+  },
+  {
+    "name": "Fries",
+    "brand": "McDonald's",
+    "calories": "550",
+    "description": "Poison",
+    "rating": null
+  },
+  {
+    "name": "Burger",
+    "brand": "Burger King",
+    "calories": "800",
+    "description": "Why? Just Why?",
+    "rating": null
+  }

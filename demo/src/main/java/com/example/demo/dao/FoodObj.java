@@ -8,9 +8,6 @@ public class FoodObj {
     private String description;
     private Double rating;
     
-    
-    
-    
 	public FoodObj() {
 		super();
 	}
